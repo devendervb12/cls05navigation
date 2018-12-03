@@ -1,0 +1,9 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m">
+   
+   <Page title="Page 2">
+      <content>
+          <Button text="Got to Page 1"/>
+      </content>
+   </Page>
+   
+   </mvc:View>
